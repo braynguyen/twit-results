@@ -1,0 +1,11 @@
+{
+  "name": "smashgg-results",
+  "version": "0.0.1",
+  "description": "Generates a results summary for the given smashgg tournament slug",
+  "bin": "./index.js",
+  "dependencies": {
+    "graphql-request": "^5.1.0",
+    "node-fetch": "^2.3.0",
+    "twit": "^2.2.11"
+  }
+}
