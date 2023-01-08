@@ -8,7 +8,7 @@ Summarizes tournament results in a concise manner (using lunar-phase's smashgg_r
 1. Clone this repo (or download an archive)
 2. Install dependencies with `npm ci` or `npm install`
 3. [Create a smash.gg API token](https://developer.smash.gg/docs/authentication) and put it in a file called `SMASHGG_TOKEN`
-4. [Create twitter API tokens] (https://dev.twitter.com) and add to config.js file
+4. [Create twitter API tokens](https://dev.twitter.com) and add to config.js file
 5. `node index.js [tournament slug]`
 
 ## Example
