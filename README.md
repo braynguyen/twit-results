@@ -1,5 +1,5 @@
 # smashgg-results
-Summarizes tournament results in a concise manner (using lunar-phase's smashgg_results)
+Summarizes tournament results in a concise manner (using lunar-phase's smashgg_results formatter)
 
 ## Pre-requisites
 - Node.js
